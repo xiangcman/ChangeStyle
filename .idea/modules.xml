@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ChangeStyle.iml" filepath="$PROJECT_DIR$/ChangeStyle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/statusbar.iml" filepath="$PROJECT_DIR$/app/statusbar.iml" />
+    </modules>
+  </component>
+</project>
